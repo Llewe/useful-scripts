@@ -23,5 +23,3 @@ At there aren't other options, but you have to provide the `-l` flag.
 2) You have to enter a quality.
 3) Youtube-dl will download the file in a folder named like the Video (careful with file names not supported by the filesystem).
 4) The Script will create a file named release.txt in the video folder. The link you provided for starting the script will be placed in this file
-
-testa
